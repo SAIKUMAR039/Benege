@@ -72,7 +72,7 @@ export default function Home() {
                 An AI chat interface built with Next.js, Tailwind CSS, and Gemini AI. Experience natural conversations with advanced language models.
               </p>
               <a
-                href="https://github.com/SAIKUMAR039"
+                href="https://github.com/SAIKUMAR039/Benege"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-flex items-center text-sm text-blue-600 hover:text-blue-700 dark:text-blue-400 dark:hover:text-blue-300"
